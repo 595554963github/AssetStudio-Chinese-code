@@ -1,0 +1,5 @@
+先还原项目解决方案，最后把Studio-main\AssetStudio.dll文件复制到你的AssetStudio.GUI.exe所在的目录，覆盖原来的AssetStudio.dll文件，这样就能解开物华弥新这个游戏了，而且还能一瞬间把指定游戏列表的大部分英文名称游戏给汉化掉。
+
+
+
+2025/2/14         23:45                  ——bilibili up主    偷吃布丁的涅普提努
