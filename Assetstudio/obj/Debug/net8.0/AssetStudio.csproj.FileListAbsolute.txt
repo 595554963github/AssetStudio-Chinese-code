@@ -1,0 +1,11 @@
+F:\迅雷下载\Studio-main\AssetStudio\bin\Debug\net8.0\Keys.json
+F:\迅雷下载\Studio-main\AssetStudio\bin\Debug\net8.0\AssetStudio.deps.json
+F:\迅雷下载\Studio-main\AssetStudio\bin\Debug\net8.0\AssetStudio.dll
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\AssetStudio.csproj.AssemblyReference.cache
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\AssetStudio.GeneratedMSBuildEditorConfig.editorconfig
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\AssetStudio.AssemblyInfoInputs.cache
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\AssetStudio.AssemblyInfo.cs
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\AssetStudio.csproj.CoreCompileInputs.cache
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\AssetStudio.dll
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\refint\AssetStudio.dll
+F:\迅雷下载\Studio-main\AssetStudio\obj\Debug\net8.0\ref\AssetStudio.dll
