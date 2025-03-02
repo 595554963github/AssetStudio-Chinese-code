@@ -1296,8 +1296,7 @@ namespace AssetStudio.GUI
                 glControl.Visible = true;
                 CreateVAO();
                 StatusStripUpdate("使用OpenGL版本: " + GL.GetString(StringName.Version) + "\n"
-                                  + "'Mouse Left'=Rotate | 'Mouse Right'=Move | 'Mouse Wheel'=Zoom \n"
-                                  + "'Ctrl W'=Wireframe | 'Ctrl S'=Shade | 'Ctrl N'=ReNormal ");
+                                  + "'鼠标左键'=旋转 | '鼠标右键'=移动 | '鼠标滚轮'=变焦 \n'Ctrl W'=线框图 | 'Ctrl S'=阴影 | 'Ctrl N'=恢复正常 ");
             }
             else
             {
